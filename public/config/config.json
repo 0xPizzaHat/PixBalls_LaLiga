@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd8992f115035Ab8FdE72b0D3630FdF1A15efb331",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd8992f115035Ab8FdE72b0D3630FdF1A15efb331",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PixBalls© LaLiga Edition",
+  "SYMBOL": "PXBSP",
+  "MAX_SUPPLY": 442,
+  "WEI_COST": 12000000000000000000,
+  "DISPLAY_COST": 12,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixballs-laliga-edition",
+  "SHOW_BACKGROUND": true
+}
