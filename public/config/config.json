@@ -9,9 +9,9 @@
   "NFT_NAME": "PixBalls© LaLiga Edition",
   "SYMBOL": "PXBSP",
   "MAX_SUPPLY": 442,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
-  "GAS_LIMIT": 300000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 3000000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/pixballs-laliga-edition",
   "SHOW_BACKGROUND": true
